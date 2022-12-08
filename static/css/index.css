@@ -1,0 +1,36 @@
+/* reset body */
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+/* ------------HEADER-------------- */
+.header {
+    text-align: center;
+}
+
+/* ------------MAIN - CONTENT-------- */
+.main-content {
+    width: 100%;
+}
+
+.main-content img {
+    width: 500px;
+    margin-left: 30%;
+}
+
+.input-form{
+    width: 100%;
+}
+
+/* ------------FOOTER-------------- */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
